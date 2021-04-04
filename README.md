@@ -17,6 +17,6 @@ Question:
      For simplicity, you may assume that each document is represented as an array of distinct integers.
      
 Solution:
-    Package Name: SparseFunctions
+    Package Name: SparseFunctions,
     Program Name: SparseSimilarity
 
