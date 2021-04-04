@@ -1,11 +1,11 @@
-# liliput
+DS Presentation
 Sparse Similarity - Data Structures Presentation
 Batch - 4
-  Fatima Abdul Jabbar
-  Kavi Varshini S
-  Kriti S Rithanya
-  Miruthubashini M
-  Naveena K S
+  Fatima Abdul Jabbar,
+  Kavi Varshini S,
+  Kriti S Rithanya,
+  Miruthubashini M,
+  Naveena K S.
   
 Question:
      The similarity of two documents (each with distinct words) is defined to be the size of the intersection divided by the size of the union. 
