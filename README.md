@@ -15,4 +15,8 @@ Question:
      Design an algorithm that returns a list of pairs of document IDs and the associated similarity. 
      Print only the pairs with similarities greater than 0. Empty documents should not be printed at all. 
      For simplicity, you may assume that each document is represented as an array of distinct integers.
+     
+Solution:
+    Package Name: SparseFunctions
+    Program Name: SparseSimilarity
 
